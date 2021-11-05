@@ -1,1 +1,9 @@
-
+name: answers
+description: Synode sur la Synodalité - Phase diocésaine
+title: "[Synode]: réponses"
+labels: [Synode]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for asking Mish for a Tip.
