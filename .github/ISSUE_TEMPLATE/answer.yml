@@ -6,4 +6,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for asking Mish for a Tip.
+        Merci d'insérer ici votre compte rendu.
+  - type: textarea
+    id: compterendu
+    attributes:
+      label: Compte rendu
+      description: "Votre compte-rendu"
+      placeholder: "Introduiser ici votre..."
+    validations:
+      required: true
+      
